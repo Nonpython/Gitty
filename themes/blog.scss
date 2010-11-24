@@ -1,0 +1,14 @@
+$color1: rgb( 255, 233, 183 );
+$color2: rgb( 182, 71, 64 );
+
+.blogpost {
+    background: $color1;
+    border: 5px $color2;
+    
+}
+
+.blogbyline {
+    background: $color2;
+    border: 5px $color1;
+    text-align: center;
+    }

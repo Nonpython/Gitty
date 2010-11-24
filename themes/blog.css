@@ -1,0 +1,10 @@
+.blogpost {
+	background: #ffe9b7;
+	border: 15px #b64740;
+	text-align: center;
+}
+
+.blogbyline {
+  background: #b64740;
+  border: 5px #ffe9b7;
+  text-align: right; }
